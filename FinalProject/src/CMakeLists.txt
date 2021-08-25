@@ -1,0 +1,17 @@
+﻿target_sources (FinalProject PRIVATE "main.cpp"
+                                     "Board.cpp"
+                                     "Item.cpp"
+                                     "Digger.cpp"
+                                     "Menu.cpp"
+                                     "Monster.cpp"
+                                     "RegularMonster.cpp"
+                                     "SmartMonster.cpp"
+                                     "MovableItem.cpp"
+                                     "StatItem.cpp"
+                                     "Diamond.cpp"
+                                     "Stone.cpp"
+                                     "Wall.cpp"
+                                     "Gift.cpp"
+                                     "Controller.cpp"
+									 "Info.cpp")
+                                    
